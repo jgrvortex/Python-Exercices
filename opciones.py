@@ -11,12 +11,12 @@ while numero>0:
     print("El numero actual es: {}".format(numero))
     divs=int(numero/2+1)
     while divs>1:
-        noprimo=(numero%divs==0)
+        no_primo=(numero%divs==0)
         if noprimo==True:
             break
         divs -= 1
 
-    if noprimo==True:
+    if no_primo==True:
         print("Se trata de un numero no primo")
     else:
         print("Se trata de un numero primo")
