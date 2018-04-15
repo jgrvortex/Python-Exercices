@@ -12,7 +12,7 @@ while numero>0:
     divs=int(numero/2+1)
     while divs>1:
         no_primo=(numero%divs==0)
-        if noprimo==True:
+        if no_primo==True:
             break
         divs -= 1
 
