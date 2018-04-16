@@ -1,6 +1,6 @@
 #Este es un ejercicio de práctica que he hecho por mi cuenta para practicar un poco
 #Es el típico ejercicio de verificar si el número introducido es primo o no pero con variaciones
-#En este caso primo se verifica si el número es par o no y si está dentro del intervalo establecido
+#En este caso primero se verifica si el número es par o no y si está dentro del intervalo permitido (entre 10 y 100, no incluidos)
 #Luego se calculan todos los números más pequeños que éste y el programa averigua, para cada uno de ellos, si es primo o no
 
 numero = int(input("Elige un numero: "))
