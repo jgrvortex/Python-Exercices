@@ -13,6 +13,7 @@ while numero_elegido != numero_correcto:
         intervalo = (numero_elegido > 0 and numero_elegido < 100)
         if intervalo == False:
             print("El numero debe de ser mayor que 0 y menor que 100. Gracias...")
+
     if numero_elegido == numero_correcto:
         print("Fabuloso!! Has acertado el numero!!")
     else:
