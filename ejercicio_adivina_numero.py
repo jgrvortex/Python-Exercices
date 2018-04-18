@@ -1,8 +1,36 @@
 
-numero_correcto = 71
 
+numero_correcto = int(input("Introduce un numero, comprendido en el intervalo del 1 al 99, incluidos ambos, para que tus compañeros intenten adivinar: "))
 
-print("Intenta adivinar el numero escondido, comprendido en el intervalo del 1 al 99, incluidos ambos.")
+#No se me ocurre ninguna otra forma de ocultar el mensaje del input con el numero correcto. 
+
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+
 
 numero_elegido = 0
 while numero_elegido != numero_correcto:
