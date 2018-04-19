@@ -1,1 +1,1 @@
-# Lecciones Python
+# Prácticas Python
