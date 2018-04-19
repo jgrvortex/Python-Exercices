@@ -25,4 +25,4 @@ while opcion_correcta == False:
             print("El resultado es: {}".format(primer_numero-segundo_numero))
         opcion_correcta = True
     else:
-        print("Debe de elegir una operacion valida: ")
+        print("Debes elegir una operacion valida: ")
