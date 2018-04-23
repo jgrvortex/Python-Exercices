@@ -29,3 +29,4 @@ longitud = len(lista_numeros)
 
 print("La lista de numeros introducida es: {}".format(lista_numeros))
 print("El numero mas pequeño de la lista es {}".format(numero_mas_pequeño))
+
