@@ -41,5 +41,5 @@ while opcion != "N":
 
     print("{}".format(veces))
 
-    palabras_usadas = borrar_list
-    veces = borrar_dict
+    palabras_usadas.clear()
+    veces.clear()
