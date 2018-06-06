@@ -3,9 +3,8 @@ string_elegida = ""
 palabra_actual = ""
 lista_palabras = []
 palabras_usadas = []
-borrar_list = []
 veces = dict()
-borrar_dict = dict()
+
 
 opcion = ""
 
