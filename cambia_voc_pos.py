@@ -22,3 +22,4 @@ while string_actual != "FIN":
 
     lista_string = "".join(lista_string)
     print(lista_string)
+    

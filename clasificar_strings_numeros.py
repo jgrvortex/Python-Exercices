@@ -43,3 +43,4 @@ print("Las strings introducidas son las siguientes: {}".format(lista_strings))
 print("Los elementos que contienen numeros y letras son los siguientes: {}".format(lista_elementos_mixtos))
 
 
+
