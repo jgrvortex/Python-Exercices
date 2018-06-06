@@ -14,4 +14,3 @@ while string_actual != "FIN":
     print(string_actual)
 
 
-
