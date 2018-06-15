@@ -37,6 +37,7 @@ while opcion != "N":
         veces[elemento] = apariciones
         apariciones = int(apariciones)
         apariciones = 1
+        
 
     print("{}".format(veces))
 
