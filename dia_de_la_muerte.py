@@ -31,13 +31,13 @@ def ask_how_much(message,penalization):
     while response not in range(0,5):
         response = int(input(message + "  [4: mucho, 3: bastante, 2: moderado, 1: poco, 0: nada] "))
     if response == 4:
-        return penalization * 80 / 100
+        return penalization * 100 / 100
     elif response == 3:
-        return penalization * 60 / 100
+        return penalization * 75 / 100
     elif response == 2:
-        return penalization * 40 / 100
+        return penalization * 50 / 100
     elif response == 1:
-        return penalization * 20 / 100
+        return penalization * 25 / 100
     elif response == 0:
         return 0
 
