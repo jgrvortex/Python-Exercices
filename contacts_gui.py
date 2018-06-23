@@ -145,7 +145,6 @@ def save_contacts(contacts):
 def main():
     #Creamos una función main() para cargar el archivo con los contactos guardados de la sesión anterior 1 sola vez.
     contacts = load_contacts()
-    print("{}".format(contacts))
     main_two(contacts)
 
 def main_two(contacts):
